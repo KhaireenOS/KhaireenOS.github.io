@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Project - Book Inventory</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Book Inventory</h1>
+        <p>Mobile Application</p>
+    </header>
+    
+    <section id="project-details">
+        <h2>About This Project</h2>
+        <p>A mobile application designed to help users manage their book collection efficiently.</p>
+        <img src="images/book-inventory.jpg" alt="Book Inventory Screenshot" width="80%">
+    </section>
+    
+    <section id="back">
+        <a href="index.html">← Back to Portfolio</a>
+    </section>
+    
+    <footer>
+        <p>&copy; 2025 Norma Khaireen. All rights reserved.</p>
+    </footer>
+</body>
+</html>
